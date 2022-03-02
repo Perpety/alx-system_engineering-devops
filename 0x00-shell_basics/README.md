@@ -3,5 +3,5 @@
  
 pwd - This command printsthe absolute path name of the current working directory \
 ls - This command lists the contents of a directory \
- 
+cd - This command changes the working directory to the user's home directory
  
